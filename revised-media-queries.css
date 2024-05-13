@@ -1,0 +1,62 @@
+/* Extra small devices (phones) */
+@media (max-width: 575.98px) {
+    /* Styles for extra small devices */
+        .hero {
+      height: 20%;
+      padding-top: 10%;
+    }
+    .header-element {
+        height: 20%;
+        padding: 0 24px 0 24px;
+        background: linear-gradient(to bottom, #ffc6f2 80%, #ffffff 50%);
+    }
+    .hero-content {
+        padding: 0
+
+    }
+    .header-element img {
+        width: 100%;
+    }
+    .about-section {
+    padding: 0 48px 0 48px;
+    }
+    .about-section .container {
+        padding: 0
+    }
+    .member-details img {
+        width: 500px;
+        padding-right: 20px;
+    }
+    .quote blockquote {
+        font-size: 18px; 
+        font-style: italic; 
+        padding: 10px; 
+        border-left: 4px solid #ccc; 
+        margin: 20px 0; 
+    }
+    .member-image img {
+        width: 100px;
+        height: 100px
+    }
+
+  
+  /* Small devices (phones) */
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    /* Styles for small devices */
+  }
+  
+  /* Medium devices (tablets) */
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    /* Styles for medium devices */
+  }
+  
+  /* Large devices (desktops) */
+  @media (min-width: 992px) and (max-width: 1199.98px) {
+    /* Styles for large devices */
+  }
+  
+  /* Extra large devices (large desktops) */
+  @media (min-width: 1200px) {
+    /* Styles for extra large devices */
+  }
+  
